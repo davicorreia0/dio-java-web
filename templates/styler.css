@@ -1,0 +1,22 @@
+body {
+    background: #f4bd2b;
+}
+
+#tittle, .products, .post {
+    color:blue;
+
+}
+
+.post_titulo {
+    font-size: 16px;
+    font-style: italic;
+
+}
+
+.post {
+    background: white;
+    padding: 15px 10px 5px ;
+    border: 3px solid black;
+    margin: 10px;
+}
+
